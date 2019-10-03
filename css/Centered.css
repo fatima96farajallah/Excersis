@@ -1,0 +1,40 @@
+body, .main , html {
+	height: 100%;
+	width: 100%;
+	
+}
+.center{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.child{
+	background-color: #345995;
+	width: 500px;
+	height: 500px;
+	border-radius: 50%
+}
+.peraent1{
+	background-color: #FFFFFF;
+	width: 87%;
+    height: 87%;
+	border-radius: 50%
+}
+.peraent2{
+	background-color: #03CEA4;
+	width: 80%;
+    height: 80%;
+	border-radius: 50%
+}
+.peraent3{
+	background-color: #FFFFFF;
+	width: 80%;
+    height: 80%;
+	border-radius: 50%
+}
+.peraent4{
+	background-color: #FB4D3D;
+	width: 75%;
+    height: 75%;
+	border-radius: 50%
+}

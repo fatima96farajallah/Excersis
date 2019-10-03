@@ -1,0 +1,18 @@
+*
+{
+    box-sizing: border-box;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(6, auto);
+  height: 100px;
+  grid-gap: 20px;
+}
+.item {
+	margin : 10px;
+    display: inline-grid;
+    background: gray;
+    width : 260px;
+    height: 435px;
+}
